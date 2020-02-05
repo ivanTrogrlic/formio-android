@@ -1,0 +1,2 @@
+include ':sample', ':formio'
+rootProject.name='FormIoAndroid'
